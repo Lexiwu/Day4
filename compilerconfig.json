@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "style/first.css",
+    "inputFile": "style/first.scss"
+  },
+  {
+    "outputFile": "style/second.css",
+    "inputFile": "style/second.scss"
+  },
+  {
+    "outputFile": "style/third.css",
+    "inputFile": "style/third.scss"
+  },
+  {
+    "outputFile": "style/four.css",
+    "inputFile": "style/four.scss"
+  },
+  {
+    "outputFile": "style/five.css",
+    "inputFile": "style/five.scss"
+  }
+]

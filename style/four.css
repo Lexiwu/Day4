@@ -1,0 +1,15 @@
+﻿body .four {
+  background-image: url("../image/four/bg4.png"); }
+
+body .four-title {
+  margin-top: 150px;
+  margin-bottom: 50px;
+  text-align: center; }
+
+body .four-btn {
+  margin-bottom: 50px; }
+
+body .like-btn {
+  padding-left: 73px;
+  padding-right: 73px; }
+
