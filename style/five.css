@@ -23,3 +23,11 @@ body .mail-icon {
   top: 18px;
   right: 45px; }
 
+body .subcribe-title {
+  text-align: center; }
+
+body .subcribe-txt {
+  position: relative;
+  top: -15px;
+  left: -65px; }
+

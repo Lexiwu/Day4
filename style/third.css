@@ -6,6 +6,8 @@ body .third-txt {
   margin-bottom: 80px; }
 
 body .third-pic {
+  height: 380px;
+  overflow: hidden;
   position: relative;
   left: -365px;
   top: 80px; }

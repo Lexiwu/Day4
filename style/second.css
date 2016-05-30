@@ -1,17 +1,19 @@
-﻿body .second {
-  background-image: url("../image/second/background.png");
-  /*position:relative;
-        top:-200px;*/ }
-
-body .second-title {
-  margin-top: 150px; }
-
-body .ipad {
-  position: relative;
-  right: -297px; }
-
-body .vice-txt {
-  border-left: #43a2d6 solid 8px;
-  padding-left: 10px;
-  margin-bottom: 50px; }
+﻿body {
+  /*.ipad{
+        position:relative;
+        right:-297px;
+    }*/ }
+  body .second {
+    background-image: url("../image/second/background.png"); }
+  body .second-title {
+    margin-top: 150px; }
+  body .vice-txt {
+    border-left: #43a2d6 solid 8px;
+    padding-left: 10px;
+    margin-bottom: 50px; }
+  body .ipadflat {
+    position: relative;
+    left: 350px;
+    height: 500px;
+    overflow: hidden; }
 

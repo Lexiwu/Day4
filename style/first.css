@@ -15,3 +15,7 @@ body .first-txt h1 {
 body .downloaded-btn {
   padding-left: 55px; }
 
+body .iphone-pic {
+  height: 350px;
+  overflow: hidden; }
+
